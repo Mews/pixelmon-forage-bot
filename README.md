@@ -1,0 +1,1 @@
+# pixelmon-forage-bot
